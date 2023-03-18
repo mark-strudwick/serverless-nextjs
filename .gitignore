@@ -1,0 +1,7 @@
+node_modules
+**/*.swp
+.build
+*.log
+cdk.out
+.DS_Store
+dist
